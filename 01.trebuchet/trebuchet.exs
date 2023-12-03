@@ -1,2 +1,2 @@
 # modeule named trebuchet
-puts "hello world"
+IO.puts "hello world"
